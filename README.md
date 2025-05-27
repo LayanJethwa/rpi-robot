@@ -1,2 +1,2 @@
 # rpi-robot
-A remote-controlled robot created using 2 raspberry pis!
+This is a remote-controlled robot I am creating that uses two Raspberry Pi 4s.
